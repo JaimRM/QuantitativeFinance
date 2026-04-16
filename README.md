@@ -1,5 +1,10 @@
 https://linktr.ee/jaime.ruiz
 
+- 👋 Hi, I’m @JaimRM
+- 👀 Algorithmic/systematic/quantitative trading
+- 🌱 Python enthusiast
+- 📫 Reach me by email: jaimeruiz018@gmail.com
+
 Ideas for next-up tasks
 
 Project A:
